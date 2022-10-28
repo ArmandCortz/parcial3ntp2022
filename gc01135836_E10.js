@@ -8,7 +8,9 @@ document.body.appendChild(ejercicio10);
 const table = document.createElement("table");
 const tbody = document.createElement("tbody");
 const tr = document.createElement("tr");
+const tr2 = document.createElement("tr");
 const td = document.createElement("td");
+const td2 = document.createElement("td");
 
 const imgE101 = document.createElement("img");
 imgE101.id = "imgE101";
@@ -66,6 +68,7 @@ function cambiarImg() {
 
 document.body.appendChild(table);
 table.appendChild(tbody);
+
 tbody.appendChild(tr);
 
 tr.appendChild(td);
@@ -74,14 +77,14 @@ td.append(imgE101);
 tr.appendChild(td);
 td.append(imgE102);
 
-tbody.appendChild(tr);
+tbody.appendChild(tr2);
 
 
-tr.appendChild(td);
-td.append(imgE103);
+tr2.appendChild(td2);
+td2.append(imgE103);
 
-tr.appendChild(td);
-td.append(imgE104);
+tr2.appendChild(td2);
+td2.append(imgE104);
 
-tr.appendChild(td);
-td.append(cambio);
+tr2.appendChild(td2);
+td2.append(cambio);

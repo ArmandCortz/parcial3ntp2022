@@ -10,6 +10,7 @@ document.body.appendChild(card);
 
 const img = document.createElement("img");
 img.id="myImage";
+img.src = "./img/E2/auto1.jpeg";
 img.style = "width: 200px; height: 100px;";
 img.alt="Imagen ejercicio 2"
 card.appendChild(img);
