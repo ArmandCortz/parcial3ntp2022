@@ -6,9 +6,9 @@ npm install
 
 integrantes del grupo:
 
-Jonathan Oseas Lopez Mendoza
-Leonel Armando Garcia Cortez 
-Aldemaro Andres Hernández Dimas
-Jimy Ronal Soriano García 
-Norma del Carmen Lobo Mendoza
-Jose Antonio Centeno Espinoza
+Jonathan Oseas Lopez Mendoza,
+Leonel Armando Garcia Cortez,
+Aldemaro Andres Hernández Dimas,
+Jimy Ronal Soriano García,
+Norma del Carmen Lobo Mendoza,
+Jose Antonio Centeno Espinoza.
